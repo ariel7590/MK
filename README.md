@@ -1,2 +1,3 @@
 # MK
-Mortal Kombat, test your might
+A Mortal Kombat game that I made in Java Swing.
+Come to play and test your might
